@@ -1,5 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
-import {
+import AsyncStorage from "@react-native-async-storage/async-storage";
   View, Text, TextInput, TouchableOpacity, ScrollView,
   StyleSheet, Alert, ActivityIndicator, Image,
   KeyboardAvoidingView, Platform, FlatList, StatusBar,
