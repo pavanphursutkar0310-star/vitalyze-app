@@ -3,7 +3,7 @@
     "name": "Vitalyze AI",
     "slug": "vitalyze-ai",
     "version": "1.0.0",
-    "icon": "./A_modern_health_app_icon_202605031635.jpeg.png",
+    "icon": "./icon.png",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "splash": {
