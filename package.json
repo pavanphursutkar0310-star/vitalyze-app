@@ -1,7 +1,7 @@
 {
   "name": "vitalyze-ai",
   "version": "1.0.0",
-  "main": "health-tracker.jsx",
+  "main": "App.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
