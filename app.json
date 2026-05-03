@@ -3,7 +3,7 @@
     "name": "Vitalyze AI",
     "slug": "vitalyze-ai",
     "version": "1.0.0",
-    "icon": "./icon.png",
+    "icon": "./Icon.png",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "splash": {
@@ -14,7 +14,7 @@
       "bundleIdentifier": "com.vitalyze.ai"
     },
     "android": {
-      "adaptiveIcon": {"foregroundImage": "./icon.png",
+      "adaptiveIcon": {"foregroundImage": "./Icon.png",
         "backgroundColor": "#0a0f1e"
       },
       "package": "com.vitalyze.ai"
